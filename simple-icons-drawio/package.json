@@ -1,0 +1,17 @@
+{
+  "name": "simple-icons-drawio",
+  "version": "7.19.0",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Álvaro Mondéjar Rubio",
+    "email": "mondejar1994@gmail.com"
+  },
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "simple-icons": "7.19.0"
+  },
+  "type": "module"
+}
